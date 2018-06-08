@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "stage-firebase"
+    "default": "stage-firebase",
+    "scene-f13ec": "scene-f13ec"
   }
 }
